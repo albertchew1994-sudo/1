@@ -9,6 +9,7 @@ Custom skills and subagents for Claude Code. Open this folder in Claude Code (or
 | **agency-agents** | A virtual marketing agency: 8 specialist subagents plus an orchestration playbook | `.claude/skills/agency-agents`, `.claude/agents/agency-*.md` |
 | **social-media-suite** | LinkedIn, Instagram, Facebook and Xiaohongshu (XHS) posts, calendars and repurposing | `.claude/skills/social-media-suite` |
 | **open-seo** | Free SEO audits (script), keyword research, content briefs, schema, local SEO | `.claude/skills/open-seo` |
+| **mcp-market** | Check the MCP Market connection, list its tools and run them (`/mcp-market`) | `.claude/skills/mcp-market` |
 
 ## Setup
 
